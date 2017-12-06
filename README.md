@@ -10,3 +10,9 @@ Yes - When prototyping is done, units will be manufactured and sold. As time goe
 ## The history of the device.
 It all started in march 2017. I am part owner of a brewery (Brygghus 19) in Sweden and this year we arranged the second annual "Craftbeer Malmoe (Malmö) CBM" brewers' conference. Second annual means that we had done this before and both this year and past year we had invited Jamil Zainasheff as a speaker for the conference. So we sat there at the breakfast bouncing ideas for next year's conference and we kind of then and there decided that it would be "The art of carbonation". Jamil then told us about an idea that he was working with in his brewery (Heretic Brewing Company) where he was using a compressor (air pump) to increase the pressure in a recirculating CO2 system with regulated CO2 injection pressure. This is what triggered my building thoughts to do a similar device but to make it quite automated. Kind of fire and forget as long as you have a steady temperature in your bright-beer tank.
 
+## Things you will need to make it on your own!
+To be updated with IDE and short instructions
+Might be that the binaries to be put on the arduino uno is the file that 
+will be uploaded to the repo as that will ensure that the correct 
+version of sw and dependencies already are sorted out as it is a 
+compiled version.
